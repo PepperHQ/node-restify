@@ -2,7 +2,9 @@
 
 ## not yet released
 
-(nothing yet)
+## 4.3.5
+
+- #1 Backport sendRaw into 4.x
 
 ## 4.3.4
 
