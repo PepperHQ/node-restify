@@ -1,5 +1,8 @@
 # restify
 
+**FORK NOTE**
+This repository was forked for api-server. v4 is used there as legacy version and did not have support for sendRaw (required for Zonal POS Loyalty's XML response).
+
 [![Build Status](https://travis-ci.org/restify/node-restify.svg)](https://travis-ci.org/restify/node-restify)
 [![Gitter chat](https://badges.gitter.im/mcavage/node-restify.svg)](https://gitter.im/mcavage/node-restify)
 [![Dependency Status](https://david-dm.org/restify/node-restify.svg)](https://david-dm.org/restify/node-restify)
